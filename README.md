@@ -1,2 +1,2 @@
 # jhLog
-a simple c++ logginglibrary
+a simple c++ logging library
